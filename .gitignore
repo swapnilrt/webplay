@@ -1,0 +1,13 @@
+# Brainstorm scratch (visual-companion mockups)
+.superpowers/
+
+# OS / editor
+.DS_Store
+*.log
+
+# Node (for the future Next.js build)
+node_modules/
+.next/
+dist/
+.env
+.env.local
