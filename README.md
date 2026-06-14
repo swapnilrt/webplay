@@ -16,7 +16,7 @@ Design / prototype phase. The visual design has been locked via an interactive m
 - **Look & feel:** high-end, futuristic; 2-tone (dark hero → light content → dark footer).
 - **Hero:** dark navy with a 3D *growing* glassmorphic neural network (nodes as glass orbs, signal pulses, mouse-steered rotation).
 - **Cards:** frosted glassmorphic panels on dark glowing "stages", with 3D tilt-on-scroll.
-- **Palette:** Barclays — deep navy `#00263A`, bright cyan `#00AEEF`, deeper blue `#0a6ed1`, on white/light.
+- **Palette:**  — deep navy `#00263A`, bright cyan `#00AEEF`, deeper blue `#0a6ed1`, on white/light.
 - **Logo:** neural-network mark (input → hidden → output layers).
 
 ## Intended build (Phase 1)
